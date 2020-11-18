@@ -15,7 +15,7 @@ A hangman game featuring the original 151 Pokémon from the first generation (a.
 
 ### Installing
 
-There is no installation process.
+No installation required.
 
 ### Executing
 
